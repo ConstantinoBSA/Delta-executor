@@ -1,11 +1,11 @@
-# 🌊 Wave Executor - Your Ultimate ROBLOX Scripting Tool 🌊
+# 🌊 Delta Executor - Your Ultimate ROBLOX Scripting Tool 🌊
 **Elevate your ROBLOX experience with limitless scripting power!** ⚡
 
-![Wave Executor Preview](/assets/Wave.gif) <!-- Add your image link here -->
+![Delta Executor Preview](/assets/Delta.gif) <!-- Add your image link here -->
 
 ---
 
-## 🔥 Why Wave Executor?
+## 🔥 Why Delta Executor?
 - ⚡ **Lightning-Fast Execution** – Experience seamless script performance.
 - 🧩 **Intuitive UI** – Designed for both beginners and experts.
 - 🔒 **Secure & Reliable** – Play with confidence.
@@ -17,7 +17,7 @@
 ## 📥 Get Started
 Want to supercharge your gameplay? Download the latest version now:
 
-🔗 **[Download Wave Executor](https://your-download-link-here.com)**
+🔗 **[Download Delta Executor](https://your-download-link-here.com)**
 
 ### 🛠️ Installation Steps:
 1. **Download** the latest version from the link above.
@@ -27,7 +27,7 @@ Want to supercharge your gameplay? Download the latest version now:
 ---
 
 ## 🎮 How to Use:
-1. **Launch Wave Executor**.
+1. **Launch Delta Executor**.
 2. **Attach** it to the ROBLOX client.
 3. **Paste** your script into the provided editor.
 4. **Execute** and unlock endless possibilities! 🚀
@@ -35,7 +35,7 @@ Want to supercharge your gameplay? Download the latest version now:
 ---
 
 ## ⚠️ Important Notice:
-- Use responsibly! **Wave Executor** holds no liability for any bans or account restrictions.
+- Use responsibly! **Delta Executor** holds no liability for any bans or account restrictions.
 - Please adhere to ROBLOX’s Terms of Service.
 
 ---
@@ -56,11 +56,11 @@ This project is licensed under the **MIT License** – check the [LICENSE](LICEN
 
 ---
 
-## 💡 Why We Built Wave Executor:
-Wave Executor was crafted with one vision: to empower the ROBLOX community with an intuitive, efficient, and enjoyable scripting tool. Thanks for being a part of it! 🌊
+## 💡 Why We Built Delta Executor:
+Delta Executor was crafted with one vision: to empower the ROBLOX community with an intuitive, efficient, and enjoyable scripting tool. Thanks for being a part of it! 🌊
 
 ---
 
 ## 🔖 Tags:
-`ROBLOX`, `ROBLOX Executor`, `Script Executor`, `Wave Executor`, `ROBLOX Mods`, `ROBLOX Scripting`, `Game Scripts`, `Game Automation`, `Script Injector`, `Game Enhancements`, `ROBLOX Exploits`, `Scripting Hub`, `ROBLOX Cheat Tools`, `ROBLOX Utility`, `Advanced Scripting`
+`ROBLOX`, `ROBLOX Executor`, `Script Executor`, `Delta Executor`, `ROBLOX Mods`, `ROBLOX Scripting`, `Game Scripts`, `Game Automation`, `Script Injector`, `Game Enhancements`, `ROBLOX Exploits`, `Scripting Hub`, `ROBLOX Cheat Tools`, `ROBLOX Utility`, `Advanced Scripting`
 
